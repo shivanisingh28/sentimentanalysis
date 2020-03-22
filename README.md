@@ -1,0 +1,2 @@
+# sentimentanalysis
+With the increasing number of textual data, its automatic analysis becomes one important context in text classification. These texts are understood to give an opinion in label format about a specific topic or product. Our model proposes implementation of multiclass sentiment analysis using deep learning is performed using a scalable and robust Convolutional Neural Network based solution on Rotten Tomatoes movie review. Our executed model is evaluated using Accuracy, Recall, Precision and Figure-of-merit (f1 score) based metrics.
